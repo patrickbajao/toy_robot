@@ -26,3 +26,11 @@ The following commands are accepted:
 ## Tests
 
 You can run the unit tests by executing `bundle exec rspec`. Acceptance test can be run by executing `bundle exec cucumber`.
+
+# Additional section for testing PR
+
+This is just additional content to test comments on PR.
+
+Another line just for testing.
+
+Also this one.
